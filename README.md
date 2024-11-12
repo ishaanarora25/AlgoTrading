@@ -24,5 +24,10 @@ AlgoTrading/
   - ```CodeCampTutorial/003_quantitative_value_strategy.ipynb```: Jupyter Notebook of project that implements a quantitative value strategy: creates an equal weight portfolio of 50 stocks with the best value metrics
 
 
+## References
+
+As mentioned earlier, this project follows the [FreeCodeCamp Algorithmic Trading tutorial](https://www.youtube.com/watch?v=xfzGZB4HhEE&t=817s). The code is taken from Nick McCullum's [algorithmic-trading-python](https://github.com/nickmccullum/algorithmic-trading-python/tree/master) repository.
+
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
