@@ -11,11 +11,11 @@ AlgoTrading/
     |--- CodeCampTutorial/
     |        |--- 001_equal_weight_S&P_500.ipynb
     |        |--- 002_quantitative_momentum_strategy.ipynb
-    |        |___ 003_quantitative_value_strategy.ipynb
+    |        |--- 003_quantitative_value_strategy.ipynb
     |--- .gitignore
     |--- LICENSE 
     |--- README.md
-    |___ environment.yml
+    |--- environment.yml
 ```
 
 ## About
