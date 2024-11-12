@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # API token
-confidential.py
+CoderCampTutorial/confidential.py
