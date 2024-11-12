@@ -13,11 +13,14 @@ AlgoTrading/
     |        |--- 002_quantitative_momentum_strategy.ipynb
     |        |___ 003_quantitative_value_strategy.ipynb
     |--- .gitignore
-    |___ LICENSE 
+    |--- LICENSE 
+    |--- README.md
+    |___ environment.yml
 ```
 
 ## About
 
+- ```environment.yml```: Conda virtual environment specs
 - ```CodeCampTutorial/```: Directory that consists of the FreeCodeCamp tutorial
   - ```CodeCampTutorial/001_equal_weight_S&P_500.ipynb```: Jupyter Notebook of project that builds an alternative of the S&P 500 where each company has an equal weight
   - ```CodeCampTutorial/002_quantitative_momentum_strategy.ipynb```: Jupyter Notebook of project that implements a quantitative momentum strategy: creates an equal weight portfolio of 50 stocks with the highest price momentum
