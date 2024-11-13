@@ -166,3 +166,6 @@ CodeCampTutorial/confidential.py
 
 # pycache
 CodeCampTutorial/__pycache__
+
+# Output File
+CodeCampTutorial/recommended trades.xlsx
