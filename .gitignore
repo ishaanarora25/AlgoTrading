@@ -167,5 +167,6 @@ CodeCampTutorial/confidential.py
 # pycache
 CodeCampTutorial/__pycache__
 
-# Output File
+# Output Files
 CodeCampTutorial/recommended trades.xlsx
+CodeCampTutorial/momentum_strategy.xlsx
